@@ -1,0 +1,18 @@
+{
+  "name": "typescript-decorators",
+  "version": "1.0.0",
+  "description": "learning how decorators work in typescript",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --exec ts-node",
+    "tsc": "tsc"
+  },
+  "author": "Sudeep Gumaste",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^17.0.21",
+    "nodemon": "^2.0.15",
+    "ts-node": "^10.7.0",
+    "typescript": "^4.6.2"
+  }
+}
